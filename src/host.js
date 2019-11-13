@@ -1,0 +1,1 @@
+export const API = 'https://toon-api.herokuapp.com/api/v1';
